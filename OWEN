@@ -1,0 +1,8 @@
+ #   what is colab?    
+this is an executable documentation
+Colaboratory 简介
+下面这个时长 3 分钟的视频概述了 Colaboratory 的主要功能：
+使用入门
+您正在阅读的文档是托管在 Colaboratory 中的 Jupyter 笔记本。它并非静态页面，而是一个可让您以 Python 和其他语言编写和执行代码的互动环境。
+
+例如，以下代码单元格包含一个简短的 Python 脚本，该脚本会计算值、将其存储在变量中并输出结果：
